@@ -9,8 +9,9 @@
 |:--- |:--- |:--- 
 |2020-12-24|8.3.17.1851|[После обновления пустой экран](main-window-is-white)
 
-
-graph TD
+|aVINASH FGTY|Версия 1С|Суть конфликта
+|:--- |:--- |:--- 
+|2020-12-24|8.3.17.1851|[После обновления пустой экран](main-window-is-white)
      A[Client] --> B[Load Balancer]
      B --> C[Server1]
      B --> D[Server2]

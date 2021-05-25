@@ -9,3 +9,8 @@
 |:--- |:--- |:--- 
 |2020-12-24|8.3.17.1851|[После обновления пустой экран](main-window-is-white)
 
+
+graph TD
+     A[Client] --> B[Load Balancer]
+     B --> C[Server1]
+     B --> D[Server2]
